@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/pycounts-zchen156/badge/?version=latest)](https://pycounts-zchen156.readthedocs.io/en/latest/?badge=latest)
+
 # pycounts
 
 Calculate word counts in a text file!
