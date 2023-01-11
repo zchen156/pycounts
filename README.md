@@ -1,4 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/pycounts-zchen156/badge/?version=latest)](https://pycounts-zchen156.readthedocs.io/en/latest/?badge=latest)
+[![ci-cd](https://github.com/zchen156/pycounts/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/zchen156/pycounts/actions/workflows/ci-cd.yml)
 
 # pycounts
 
